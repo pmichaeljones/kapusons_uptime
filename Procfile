@@ -1,0 +1,1 @@
+web: bundle exec ruby kapusons_status.rb -p $PORT

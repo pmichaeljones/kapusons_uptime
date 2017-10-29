@@ -1,0 +1,86 @@
+p, li {
+  font-family: raleway;
+}
+
+label {
+  font-size: 18px;
+  font-weight: 200;
+}
+
+.orange-button {
+  background-color: orange;
+  width: 75%;
+}
+
+.push-down-button {
+  margin-top: 19px;
+}
+
+input[type="file"] {
+  background: white;
+  color: black;
+  font-size: 14px;
+  height: 30px;
+  border-radius: 2px;
+  padding: 5px 0px 0px 5px;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.homepage-image{
+  opacity: .75;
+}
+
+.homepage-title {
+  background: rgba(0,0,0,.8);
+  padding: 25px 10px;
+}
+
+.thick-title {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.thin-title {
+  font-weight: 100;
+  display: inline-block;
+}
+
+
+a:hover {
+  color: deepskyblue;
+}
+
+.pull-left {
+  text-align: left;
+}
+
+.push-down {
+  padding-top: 15%;
+}
+
+.centered {
+  text-align: center;
+}
+
+/*COLORS*/
+
+
+.white {
+  color: white;
+}
+
+.orange {
+  color: orange;
+}
+
+.black-link {
+  color: black;
+  font-weight: 500;
+}
+
+p {
+  font-family: raleway;
+}
